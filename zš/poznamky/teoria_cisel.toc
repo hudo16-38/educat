@@ -23,9 +23,6 @@
 \contentsline {section}{\numberline {4}Slovné úlohy na NSD a nsn}{13}{section.4}%
 \contentsline {section}{\numberline {5}Racionálne čísla a zlomky}{16}{section.5}%
 \contentsline {subsection}{\numberline {5.1}Definícia}{16}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Cvičenia}{16}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Operácie so zlomkami}{18}{subsection.5.3}%
-\contentsline {section}{\numberline {6}Pomery}{18}{section.6}%
-\contentsline {section}{\numberline {7}Percentá a promile}{18}{section.7}%
-\contentsline {subsection}{\numberline {7.1}Percentá}{18}{subsection.7.1}%
-\contentsline {subsection}{\numberline {7.2}Promile}{18}{subsection.7.2}%
+\contentsline {subsection}{\numberline {5.2}Rozširovanie zlomkov}{16}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Cvičenia}{16}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Operácie so zlomkami}{18}{subsection.5.4}%
