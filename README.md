@@ -1,7 +1,25 @@
 # Educat
-<img src="EDUCAT_ICON.png" width="100" height="100" />
 
-# ======================================================
+<style>
+  .image-container {
+    background-color: #034541;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+  }
+</style>
+
+<div class="image-container">
+  ![](EDUCAT_ICON.png)
+</div>
+
+
+
+
+
+
+
 
 Materiály na výučbu v [Educat - vzdelávacie centrum](https://www.educat.sk/)
 
