@@ -1,5 +1,5 @@
-# educat
-Materiály na výučbu v Educat
+# Educat
+Materiály na výučbu v [Educat - vzdelávacie centrum](https://www.educat.sk/)
 
 * [Materiály pre ZŠ](zš/README.md)
 * [Materiály pre SŠ](sš/README.md)
