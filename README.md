@@ -1,5 +1,5 @@
 # Educat
-
+<img src="EDUCAT_ICON.png" width="48">
 ![](EDUCAT_ICON.png | width=100)
 
 
