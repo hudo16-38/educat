@@ -1,6 +1,6 @@
 # Educat
 
-![](EDUCAT_ICON.png)
+![](EDUCAT_ICON.png | width=100)
 
 
 Materiály na výučbu v [Educat - vzdelávacie centrum](https://www.educat.sk/)
