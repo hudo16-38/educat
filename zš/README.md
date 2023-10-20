@@ -1,4 +1,4 @@
 # Materiály pre ZŠ
 
-* doučovanie do školy
-* testovanie 9 a prijímacie skúšky
+* [Doučovanie do školy](dds/README.md)
+* [Testovanie 9 a prijímacie skúšky](t9-ps/README.md)
