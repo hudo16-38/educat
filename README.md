@@ -2,8 +2,6 @@
 
 # Educat
 <img src="EDUCAT_ICON.png" width="75">
-
-
 Materiály na výučbu v [Educat - vzdelávacie centrum](https://www.educat.sk/)
 
 </div>
