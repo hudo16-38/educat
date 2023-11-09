@@ -1,11 +1,11 @@
-<div style='background-color: #f6f6f6; padding: 20px;'>
+![bg](#39ffaf)
 
-  # Educat
-  <img src="EDUCAT_ICON.png" width="75">
+# Educat
+<img src="EDUCAT_ICON.png" width="75">
   
-  Materiály na výučbu v [Educat - vzdelávacie centrum](https://www.educat.sk/)
+Materiály na výučbu v [Educat - vzdelávacie centrum](https://www.educat.sk/)
   
-</div>
+
 
 
 * [Materiály pre ZŠ](zš/README.md)
