@@ -1,0 +1,41 @@
+\babel@toc {slovak}{}\relax 
+\contentsline {chapter}{\numberline {1}Aritmetika a teória čísel}{5}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Základné typy čísel a ich aritmetika}{5}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Prirodzené čísla, celé čísla a ich zápisy}{5}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Základné matematické operácie}{5}{subsection.1.1.2}%
+\contentsline {section}{\numberline {1.2}Deliteľnosť prirodzených čísel}{5}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Deliteľnosť a kritériá deliteľnosti}{5}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Prvočísla, zložené čísla a prvočíslený rozklad}{5}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Najväčší spoločný deliteľ a najmenší spoločný násobok}{5}{subsection.1.2.3}%
+\contentsline {section}{\numberline {1.3}Racionálne čísla}{6}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Racionálne čísla a zlomky}{6}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Typy zlomkov}{6}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Rozširovanie a krátenie zlomkov}{6}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}Aritmetika racionálnych čísel}{6}{subsection.1.3.4}%
+\contentsline {section}{\numberline {1.4}Pomer}{7}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Percentá a promile}{7}{section.1.5}%
+\contentsline {chapter}{\numberline {2}Výrazy, rovnice a nerovnice}{9}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Lineárne rovnice}{9}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Lineárne nerovnice}{9}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Výrazy}{9}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Priama a nepriama úmera}{10}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Priama úmera}{10}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Nepriama úmera}{10}{subsection.2.4.2}%
+\contentsline {chapter}{\numberline {3}Geometria}{11}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Planimetria}{11}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Uhly}{11}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Priamky a roviny}{11}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Rovinné útvary}{11}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3.2}Konštrukčné úlohy}{12}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Stereometria}{13}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Kombinatorika, pravdepodobnosť a štatistika}{15}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Kombinatorika}{15}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Faktoiál a permutácie}{15}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Variáce bez opakovania}{15}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Variáce s opakovaním}{15}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Kombinácie}{15}{subsection.4.1.4}%
+\contentsline {subsection}{\numberline {4.1.5}Pravidlo súčtu a súčinu}{15}{subsection.4.1.5}%
+\contentsline {section}{\numberline {4.2}Pravdepodobnosť}{16}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Kombinatorická pravdepodobnosť}{16}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Geometrická pravdepodobnosť}{16}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}Štatistika}{17}{section.4.3}%

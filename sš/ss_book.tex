@@ -1,0 +1,52 @@
+\documentclass[twoside, 12pt]{book}
+\linespread{1.25}
+
+\usepackage[utf8]{inputenc}
+\usepackage{amsthm}
+\usepackage[slovak]{babel}
+\usepackage{graphicx}
+\usepackage{hyperref}
+
+\DeclareUnicodeCharacter{0161}{\v{s}} % š
+\DeclareUnicodeCharacter{010D}{\v{c}} % č
+\DeclareUnicodeCharacter{0165}{\v{t}} % ť
+\DeclareUnicodeCharacter{010F}{\v{d}} % ď
+\DeclareUnicodeCharacter{013E}{\v{l}} % ľ
+\DeclareUnicodeCharacter{00E1}{\'{a}} % á
+\DeclareUnicodeCharacter{00E9}{\'{e}} % é
+\DeclareUnicodeCharacter{00FD}{\'{y}} % ý
+\DeclareUnicodeCharacter{00F3}{\'{o}} % ó
+
+\DeclareUnicodeCharacter{0160}{\v{S}} % Š
+\DeclareUnicodeCharacter{010C}{\v{C}} % Č
+\DeclareUnicodeCharacter{0164}{\v{T}} % Ť
+\DeclareUnicodeCharacter{010E}{\v{D}} % Ď
+\DeclareUnicodeCharacter{013D}{\v{L}} % Ľ
+\DeclareUnicodeCharacter{00C1}{\'{A}} % Á
+\DeclareUnicodeCharacter{00C9}{\'{E}} % É
+\DeclareUnicodeCharacter{00DD}{\'{Y}} % Ý
+\DeclareUnicodeCharacter{00D3}{\'{O}} % Ó
+
+%[]
+
+\title{\textbf{Poznámky pre SŠ}}
+\date{}
+\author{Roman Hudec\\
+	\textit{Educat - vzdelávacie centrum}\\
+	\includegraphics[width=6cm]{obrazky/educat.jpg}
+}
+\pagestyle{plain}
+
+\begin{document}
+	\maketitle
+	\tableofcontents
+	
+	\input logika.tex
+	\input mnoziny.tex
+	\input tc-ss.tex
+	\input vyrazy.tex
+	\input rovnice-ss.tex
+	\input geometria-ss.tex
+	\input anal-geom.tex
+	\input pas-ss.tex
+\end{document}
