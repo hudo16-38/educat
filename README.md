@@ -1,4 +1,4 @@
-![bg](#39ffaf)
+
 
 # Educat
 <img src="EDUCAT_ICON.png" width="75">
