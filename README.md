@@ -1,4 +1,4 @@
-<div style="background-color: #f0f0f0; padding: 20px;">
+<div style='background-color: #f0f0f0; padding: 20px;'>
 
   # Educat
   <img src="EDUCAT_ICON.png" width="75">
