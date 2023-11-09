@@ -1,4 +1,4 @@
-<div style="background-color: #f0f0f0;>
+<div style="background-color: #f1f1f1;>
 
 # Educat
 <img src="EDUCAT_ICON.png" width="75">
