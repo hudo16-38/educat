@@ -21,7 +21,6 @@
 * [Výpočet základu](https://megym.wbl.sk/zaklad.htm)
 * [Určovanie počtu percent](https://megym.wbl.sk/vyber_si_percenta.htm)
 * [Percentá - rôzne príklady](https://megym.wbl.sk/percenta.htm)
-* [Percentá - slovné úlohy]
 * [Pomer - úlohy](https://hotpot.wbl.sk/pomer.htm)
 * [Pomer v receptoch](https://hotpot.wbl.sk/pomer_v_receptoch.htm)
 * [Pomer v slovách](https://hotpot.wbl.sk/pomer_v_slovach.htm)
