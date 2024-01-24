@@ -1,0 +1,3 @@
+\babel@toc {slovak}{}\relax 
+\beamer@sectionintoc {1}{Čo sú to zlomky}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Definícia zlomkov a racionálnych čísel}{3}{0}{1}

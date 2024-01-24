@@ -7,10 +7,10 @@ import numpy as np
 class App:
     def __init__(self) -> None:
         self.beg = 20
-        self.canvas = tk.Canvas(height=400, width=600)
+        self.canvas = tk.Canvas(height=300, width=600)
         self.canvas.pack()
         self.text_label = None
-        self.show_button = tk.Button(text="Ukáž výsledok", command=self.show_fraction)
+        self.show_button = tk.Button(text="Ukáž výsledok", command=self.show_fraction, background="gray")
         self.show_button.place(x=140, y=140)
         self.canvas.bind("<ButtonPress-1>", self.show_click)
         
@@ -43,7 +43,7 @@ class App:
         else:
             self.text_label.config(text=f"Zobraz zlomok {self.fraction}.", font=("Helvetica", 14))
 
-        self.generate_button = tk.Button(text="Vygeneruj zlomok", command=self.generate_random_fraction)
+        self.generate_button = tk.Button(text="Vygeneruj zlomok", command=self.generate_random_fraction, background="lightblue")
         self.generate_button.place(x=20, y=140)
 
         self.create_axis()
@@ -55,6 +55,7 @@ class App:
         for index in range(self.n+1):
             x = index*self.step + self.beg
             self.canvas.create_line(x, 30, x, 70)
+            self.canvas.create_text(x, 80, text=str(index))
 
             ticks = np.linspace(x, x+self.step, self.fraction.denominator, endpoint=False)
 
