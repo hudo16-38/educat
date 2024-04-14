@@ -1,0 +1,37 @@
+\documentclass[twoside, 12pt]{book}
+\linespread{1.25}
+
+\usepackage[a4paper,top=2.5cm,bottom=2.5cm,left=3.5cm,right=2cm]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{amsthm}
+\usepackage[slovak]{babel}
+\usepackage{graphicx}
+\newtheorem{example}{Príklad}
+
+%[]
+
+\title{Maturitná zbierka úloh z matematiky\\
+	\includegraphics{assets/educat_logo.png}}
+\date{}
+\pagestyle{plain}
+\usepackage[hidelinks]{hyperref}
+
+\theoremstyle{definition}
+\newtheorem{solution}{Riešenie}
+
+
+\begin{document}
+	\maketitle
+	\tableofcontents
+	
+	\input{logika.tex}
+	\input{mnoziny.tex}
+	\input{tc.tex}
+	\input{vyrazy_rovnice.tex}
+	\input{umernost.tex}
+	\input{fcie.tex}
+	\input{geometria.tex}
+	\input{anal_geom.tex}
+	\input{pas.tex}
+	
+\end{document}

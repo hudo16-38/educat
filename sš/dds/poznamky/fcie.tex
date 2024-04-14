@@ -20,7 +20,7 @@
 
 \begin{document}
 	\maketitle
-	\tableofcontents
+	%\tableofcontents
 	
 	
 	\section{Teória k funkciám}
@@ -57,8 +57,6 @@
 			\includegraphics{assets/teoria_graf.png}
 		\end{figure}
 	\end{enumerate}
-	
-	\subsection{Určovanie definičného oboru a oboru hodnôt}
 	
 	\subsection{Vlastnosti funkcií}
 	
@@ -97,6 +95,8 @@
  		Funkcia, sa nazýva \fbox{prostá} ak $\forall x_1, x_2 \in D(f): x_1 \neq x_2 \Rightarrow f(x_1) \neq f(x_2)$.
  	\end{definition}
  	
+ 	Ak je funkcia rýdzo monotónna, tak je prostá. \textbf{! Naopak ale veta neplatí!}
+ 	
  	\begin{definition}[Ohraničenosť]
  		Funkcia $f$ sa nazýva \\
  		\begin{enumerate}
@@ -107,15 +107,50 @@
  		\end{enumerate}
  	\end{definition}
  	
+ 	\begin{definition}[Inverzná funkcia]
+ 		Ak je $f$ prostá funkcia, tak k nej existuje práve jedna funkcia, označme ju $f^{-1}$, ktorá je určená takto:
+ 		\begin{enumerate}
+ 			\item jej definičný obor je $H(f)$, teda $D(f^{-1}) = H(f)$,
+ 			\item $H(f^{-1}) = D(f)$
+ 		\end{enumerate}
+ 		Takáto funkcia sa nazýva \fbox{inverznou funkciou} k funkcii $f$.
+ 	\end{definition}
+ 	
+ 	Z týchto dvoch vlastností vyplýva, že graf prostej funkcie je súmerný podľa osi $y = x$ s jej inverziou.
+ 	
+ 	\begin{definition}[Periodická funkcia]
+ 		Funkcia $f$ sa nazýva \fbox{periodická funkcia} práve vtedy, keď existuje $\exists p > 0: \forall k \in \mathbb{Z}:$
+ 		\begin{enumerate}
+ 			\item $ak ~ x ~ \in D(f) \Rightarrow x + kp \in D(f)$,
+ 			\item $f(x + kp) = f(x)$
+ 		\end{enumerate}
+ 		Číslo $p$ potom nazývame \fbox{periódou} funkcie $f$.
+ 	\end{definition}
+ 	
  	\subsection{Extrémy funkcií}
  	
+ 	\begin{definition}[Maximum]
+ 		Hovoríme, že funkcia $f$ má v bode a $\in M \subseteq D(f)$ maximum na množine M práve vtedy, keď pre všetky $x \in M$ platí $f(x) \le f(a)$.
+ 	\end{definition}
+ 	
+ 	\begin{definition}[Minimum]
+ 		Hovoríme, že funkcia $f$ má v bode a $\in M \subseteq D(f)$ minimum na množine M práve vtedy, keď pre všetky $x \in M$ platí $f(x) \ge f(a)$.
+ 	\end{definition}
+ 	
+ 	\begin{definition}[Ostré maximum]
+ 		Hovoríme, že funkcia $f$ má v bode a $\in M \subseteq D(f)$ ostré maximum na množine M práve vtedy, keď pre všetky $x \in M$ platí $f(x) \le f(a)$.
+ 	\end{definition}
+ 	
+ 	\begin{definition}[Ostré minimum]
+ 		Hovoríme, že funkcia $f$ má v bode a $\in M \subseteq D(f)$ ostré minimum na množine M práve vtedy, keď pre všetky $x \in M$ platí $f(x) > f(a)$.
+ 	\end{definition}
  	
 	
 	\section{Cvičenia k funkciám}
 	
+	\url{https://gymmoldava.sk/ICV/CELYWEB/indexICV.php?show=funkcie}
+	
 	\subsection{Rozhodovačka}
-	\url{https://gymmoldava.sk/ICV/CELYWEB/2/FUNKCIE/jefciatabulky.htm}\\
-	\url{https://gymmoldava.sk/ICV/CELYWEB/2/FUNKCIE/jefciaAF.htm}\\
 	
 	Pre jednotlivé predpisy urči, či predstavujú funkciu, alebo nie.
 	\begin{enumerate}

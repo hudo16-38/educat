@@ -1,0 +1,108 @@
+\documentclass[12pt, twopage]{article}
+\linespread{1.25}
+
+\usepackage[utf8]{inputenc}
+\usepackage{amsthm}
+\usepackage{amsfonts}
+\usepackage[slovak]{babel}
+\usepackage{graphicx}
+\usepackage[hidelinks, breaklinks]{hyperref}
+\usepackage[a4paper,top=2.5cm,bottom=2.5cm,left=3.5cm,right=2cm]{geometry}
+
+\theoremstyle{definition}
+\newtheorem{example}{Príklad}
+
+
+\theoremstyle{definition}
+\newtheorem{solution}{Riešenie}
+
+\theoremstyle{definition}
+\newtheorem{definition}{Definícia}
+
+%[]
+
+\title{\textbf{Algebrické výrazy}}
+\date{\today}
+\author{\textit{Educat - vzdelávacie centrum}}
+
+\begin{document}
+	\maketitle
+	
+	\section{Polynómy a monómy}
+	
+	\begin{center}
+		\begin{tabular}{|cc|}
+			\hline
+			Polynóm & Monóm \\
+			Stupeň monómu & Stupeň polynómu \\
+			\hline
+		\end{tabular}
+	\end{center}
+	
+	
+	\begin{itemize}
+		\item $\underline{\hspace{4cm}}$ je súčin čísla, ktoré nazývame \fbox{koeficient}, a niekoľkých mocnín premenných.
+		\item $\underline{\hspace{4cm}}$ je súčet monómov, ktoré tiež nazývame \fbox{členy}.
+		\item $\underline{\hspace{4cm}}$ je súčet mocnín premenných, ktoré ho tvoria.
+		\item $\underline{\hspace{4cm}}$ je maximálny stupeň jeho monómov.
+	\end{itemize}
+	
+	\begin{example}
+		Určme stupne nasledovných monómov.
+		
+		\begin{enumerate}
+			\item $5x^3y^4z^{11}$
+			\item $4$
+			\item $x^3y^2$
+			\item $xyz$
+			\item $xz^5$
+			\item $\frac{2}{3}$
+		\end{enumerate}
+	\end{example}
+	
+	\begin{solution}
+		Ukážme si riešenia. 
+		
+		\begin{enumerate}
+			\item V prvom výrazy vystupujú tri premenné $x$, $y$ a $z$. Ak sa pozrieme na ich mocniny, tak sú nimi $x^3$, $y^4$ a $z^{11}$, a teda ich exponentami sú čísla 3, 4, 11. A keďže ich súčet je 16, tak stupeň prvého monómu je 16.
+			\item V druhom monóme vystupuje len číslo 4. Takže keď nemáme v ňom žiadne premenné, tak súčet ich mocnín je 0. Teda číslo je vždy monóm nultého stupňa.
+			\item Podobne ako v prvom monóme máme urobíme súčet exponentov a neprekvapivo dostaneme číslo 5. Takže tretí monóm je stupňa 5.
+			\item V treťom monóme si len potrebujeme uvedomiť, že ak máme čisto premennú $x$, tak je to to isté ako $x^1$, ale vieme, že jednotku v exponente písať nemusíme. Z toho dôvodu máme v monóne $xyz$ 3 premenné, ktorých exponenty sú 1. A súčet troch jednotiek je znovu neprekvapivo 3. Takže monóm $xyz$ je tretieho stupňa. 
+			\item Pri tomto monóme len využijeme skúsenosti z predošlých dvoch príkladov. Exponenty mocnín sú teda 1 a 5. Takže máme polynóm šieteho stupňa.
+			\item Stačí sa pozrieť na druhý monóm a vieme, že stupeň je tuna tiež 0.
+		\end{enumerate}
+	\end{solution}
+	
+	\begin{example}
+		V tomto príklade si ukážme určovanie stupňa polynómu.
+		
+		\begin{enumerate}
+			\item $2x^4 - 5x^3 + 41x^2 + x - 99$
+			\item $x^7y^2 - 6z^{12} + 3$
+			\item $-x^6k^5z^3 - 9x^12y^2 + xyz^{10}$
+			\item $9 + x - 33x^2$
+			\item $33x^4y^5 - 10x^{10}$
+			\item $-4k^5 + 3$
+			\item $x^{22} + x^{12}y^6z^5k^7$
+			\item $33 + x$
+			\item $9$
+			\item $22 - y^7 - 11x^4y^8$
+		\end{enumerate}
+	\end{example}
+	
+	\subsection{Cvičenia}
+	
+	\section{Aritmetika polynómov}
+	
+	\subsection{Sčitovanie a násobenie polynómov}
+	
+	\subsection{Násobenie polynómov}
+	
+	\subsection{Delenie polynómov}
+	
+	\section{Úpravy a zjednodušovanie polynómov}
+\end{document}
+
+
+
+

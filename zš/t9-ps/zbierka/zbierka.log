@@ -1,0 +1,1272 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9.24) (preloaded format=pdflatex 2023.10.4)  17 FEB 2024 23:25
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./zbierka.tex
+(zbierka.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/base\book.cls
+Document Class: book 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/base\bk12.clo
+File: bk12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@chapter=\count186
+\c@section=\count187
+\c@subsection=\count188
+\c@subsubsection=\count189
+\c@paragraph=\count190
+\c@subparagraph=\count191
+\c@figure=\count192
+\c@table=\count193
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count194
+\Gm@cntv=\count195
+\c@Gm@tempcnt=\count196
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks18
+
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+)
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks21
+\thm@bodyfont=\toks22
+\thm@headfont=\toks23
+\thm@notefont=\toks24
+\thm@headpunct=\toks25
+\thm@preskip=\skip50
+\thm@postskip=\skip51
+\thm@headsep=\skip52
+\dth@everypar=\toks26
+)
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2023/09/29 v3.95 The Babel package
+\babel@savecnt=\count197
+\U@D=\dimen149
+\l@unhyphenated=\language79
+
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count198
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/babel-slovak\slovak.ldf
+Language: slovak 2008/07/06 v3.1a Slovak support from the babel system
+Package babel Info: Making ^ an active character on input line 123.
+Package babel Info: Making " an active character on input line 126.
+Package babel Info: Making ' an active character on input line 129.
+\cs@wordlen=\count199
+Package babel Info: Making - an active character on input line 294.
+))
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/sk\babel
+-slovak.tex
+Package babel Info: Importing font and identification data for slovak
+(babel)             from babel-sk.ini. Reported on input line 11.
+)
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+)
+\c@example=\count266
+
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-07-08 v7.01b Hypertext links for LaTeX
+
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-08-07 v2.53 Cross-referencing by name of section
+
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count267
+)
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count268
+)
+\@linkdim=\dimen152
+\Hy@linkcounter=\count269
+\Hy@pagecounter=\count270
+
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-07-08 v7.01b Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count271
+
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-07-08 v7.01b Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4167.
+Package hyperref Info: Link nesting OFF on input line 4172.
+Package hyperref Info: Hyper index ON on input line 4175.
+Package hyperref Info: Plain pages OFF on input line 4182.
+Package hyperref Info: Backreferencing OFF on input line 4187.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4434.
+\c@Hy@tempcnt=\count272
+
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4772.
+\XeTeXLinkMargin=\dimen153
+
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count273
+\Field@Width=\dimen154
+\Fld@charsize=\dimen155
+Package hyperref Info: Hyper figures OFF on input line 6051.
+Package hyperref Info: Link nesting OFF on input line 6056.
+Package hyperref Info: Hyper index ON on input line 6059.
+Package hyperref Info: backreferencing OFF on input line 6066.
+Package hyperref Info: Link coloring OFF on input line 6071.
+Package hyperref Info: Link coloring with OCG OFF on input line 6076.
+Package hyperref Info: PDF/A mode OFF on input line 6081.
+
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count274
+\c@Item=\count275
+\c@Hfootnote=\count276
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2023-07-08 v7.01b Hyperref driver for pdfTeX
+
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count277
+\c@bookmark@seq@number=\count278
+
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip53
+)
+\c@solution=\count279
+
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count280
+\l__pdf_internal_box=\box51
+) (zbierka.aux (aritmetika.aux) (linearne.aux) (umernost.aux)
+(geometria.aux) (pas.aux) (vysledky.aux))
+\openout1 = `zbierka.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(99.58464pt, 441.01773pt, 56.9055pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=441.01773pt
+* \textheight=702.78308pt
+* \oddsidemargin=27.31465pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-33.0119pt
+* \headheight=12.0pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=98.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count281
+\scratchdimen=\dimen156
+\scratchbox=\box52
+\nofMPsegments=\count282
+\nofMParguments=\count283
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count284
+\MPscratchDim=\dimen157
+\MPnumerator=\count285
+\makeMPintoPDFobject=\count286
+\everyMPtoPDFconversion=\toks28
+)
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\roman\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package hyperref Info: Link coloring OFF on input line 22.
+ (zbierka.out) (zbierka.out)
+\@outlinefile=\write3
+\openout3 = `zbierka.out'.
+
+<assets/educat_logo.png, id=47, 275.52937pt x 249.93375pt>
+File: assets/educat_logo.png Graphic file (type png)
+<use assets/educat_logo.png>
+Package pdftex.def Info: assets/educat_logo.png  used on input line 24.
+(pdftex.def)             Requested size: 275.52869pt x 249.93314pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 24.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 24.
+
+
+LaTeX Warning: No \author given.
+
+[1
+
+
+{C:/Users/roman/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./assets/edu
+cat_logo.png>] [2
+
+] (zbierka.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 6.
+)
+\tf@toc=\write4
+\openout4 = `zbierka.toc'.
+
+
+
+pdfTeX warning: pdflatex.exe (file ./assets/vzorce.pdf): PDF inclusion: found P
+DF version <1.7>, but at most version <1.5> allowed
+<assets/vzorce.pdf, id=72, 597.50786pt x 845.04686pt>
+File: assets/vzorce.pdf Graphic file (type pdf)
+<use assets/vzorce.pdf>
+Package pdftex.def Info: assets/vzorce.pdf  used on input line 26.
+(pdftex.def)             Requested size: 441.01773pt x 623.726pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 26--27
+[][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3]
+[4 <./assets/vzorce.pdf>]
+\openout2 = `aritmetika.aux'.
+
+ (aritmetika.tex
+Kapitola 1.
+<assets/os1.png, id=146, 211.28937pt x 49.68562pt>
+File: assets/os1.png Graphic file (type png)
+<use assets/os1.png>
+Package pdftex.def Info: assets/os1.png  used on input line 14.
+(pdftex.def)             Requested size: 211.28885pt x 49.6855pt.
+<assets/os2.png, id=147, 429.605pt x 38.1425pt>
+File: assets/os2.png Graphic file (type png)
+<use assets/os2.png>
+Package pdftex.def Info: assets/os2.png  used on input line 32.
+(pdftex.def)             Requested size: 429.60394pt x 38.1424pt.
+[5
+
+
+ <./assets/os1.png> <./assets/os2.png>]
+<assets/os3.png, id=170, 459.7175pt x 97.86563pt>
+File: assets/os3.png Graphic file (type png)
+<use assets/os3.png>
+Package pdftex.def Info: assets/os3.png  used on input line 45.
+(pdftex.def)             Requested size: 459.71637pt x 97.86537pt.
+
+Overfull \hbox (18.69864pt too wide) in paragraph at lines 44--46
+[] 
+ []
+
+<assets/os4.png, id=171, 337.76187pt x 81.80562pt>
+File: assets/os4.png Graphic file (type png)
+<use assets/os4.png>
+Package pdftex.def Info: assets/os4.png  used on input line 50.
+(pdftex.def)             Requested size: 337.76105pt x 81.8054pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--60
+
+ []
+
+[6 <./assets/os3.png> <./assets/os4.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
+ []
+
+<assets/tab.png, id=191, 152.06813pt x 72.77188pt>
+File: assets/tab.png Graphic file (type png)
+<use assets/tab.png>
+Package pdftex.def Info: assets/tab.png  used on input line 83.
+(pdftex.def)             Requested size: 152.06775pt x 72.77168pt.
+
+Overfull \hbox (5.46098pt too wide) in paragraph at lines 97--98
+[]\OT1/cmr/bx/n/12 Pr^^S^^Pklad 14. \OT1/cmr/m/it/12 Vypo^^Tc^^S^^Ptaj dve tre-
+tiny z troch ^^Tstvrt^^S^^Pn. V^^Sysledok zap^^S^^P^^Ts ako zlo-mok v z^^Saklad
+nom
+ []
+
+<assets/fotky.png, id=192, 446.16687pt x 100.87688pt>
+File: assets/fotky.png Graphic file (type png)
+<use assets/fotky.png>
+Package pdftex.def Info: assets/fotky.png  used on input line 108.
+(pdftex.def)             Requested size: 446.16579pt x 100.87662pt.
+
+Overfull \hbox (5.14806pt too wide) in paragraph at lines 108--109
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+ []
+
+[7 <./assets/tab.png> <./assets/fotky.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
+
+ []
+
+<assets/os5.png, id=211, 307.64937pt x 57.21375pt>
+File: assets/os5.png Graphic file (type png)
+<use assets/os5.png>
+Package pdftex.def Info: assets/os5.png  used on input line 147.
+(pdftex.def)             Requested size: 307.6486pt x 57.2136pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
+
+ []
+
+<assets/karticky.png, id=212, 197.73875pt x 48.18pt>
+File: assets/karticky.png Graphic file (type png)
+<use assets/karticky.png>
+Package pdftex.def Info: assets/karticky.png  used on input line 158.
+(pdftex.def)             Requested size: 197.73827pt x 48.17986pt.
+[8 <./assets/os5.png> <./assets/karticky.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 181--182
+
+ []
+
+) [9]
+\openout2 = `linearne.aux'.
+
+ (linearne.tex [10
+
+
+
+
+]
+Kapitola 2.
+<assets/pyramida1.png, id=261, 209.28188pt x 73.77562pt>
+File: assets/pyramida1.png Graphic file (type png)
+<use assets/pyramida1.png>
+Package pdftex.def Info: assets/pyramida1.png  used on input line 6.
+(pdftex.def)             Requested size: 209.28134pt x 73.77542pt.
+[11 <./assets/pyramida1.png>]
+<assets/novakovci.png, id=277, 316.68312pt x 107.40125pt>
+File: assets/novakovci.png Graphic file (type png)
+<use assets/novakovci.png>
+Package pdftex.def Info: assets/novakovci.png  used on input line 52.
+(pdftex.def)             Requested size: 316.68234pt x 107.40097pt.
+ [12 <./assets/novakovci.png>]
+<assets/pyramida2.png, id=299, 114.92938pt x 54.2025pt>
+File: assets/pyramida2.png Graphic file (type png)
+<use assets/pyramida2.png>
+Package pdftex.def Info: assets/pyramida2.png  used on input line 102.
+(pdftex.def)             Requested size: 114.9291pt x 54.20236pt.
+<assets/schema.png, id=300, 197.73875pt x 101.37875pt>
+File: assets/schema.png Graphic file (type png)
+<use assets/schema.png>
+Package pdftex.def Info: assets/schema.png  used on input line 146.
+(pdftex.def)             Requested size: 197.73827pt x 101.3785pt.
+ [13 <./assets/pyramida2.png>]
+<assets/tab3.png, id=324, 206.7725pt x 52.69687pt>
+File: assets/tab3.png Graphic file (type png)
+<use assets/tab3.png>
+Package pdftex.def Info: assets/tab3.png  used on input line 154.
+(pdftex.def)             Requested size: 206.77199pt x 52.69673pt.
+) [14 <./assets/schema.png> <./assets/tab3.png>]
+\openout2 = `umernost.aux'.
+
+ (umernost.tex
+Kapitola 3.
+[15
+
+
+
+
+]
+<assets/kalendar.png, id=350, 96.36pt x 70.76437pt>
+File: assets/kalendar.png Graphic file (type png)
+<use assets/kalendar.png>
+Package pdftex.def Info: assets/kalendar.png  used on input line 75.
+(pdftex.def)             Requested size: 96.35974pt x 70.76419pt.
+ [16]) [17 <./assets/kalendar.png>]
+\openout2 = `geometria.aux'.
+
+ (geometria.tex [18
+
+
+
+
+]
+Kapitola 4.
+<assets/pozemok.png, id=375, 203.25937pt x 96.36pt>
+File: assets/pozemok.png Graphic file (type png)
+<use assets/pozemok.png>
+Package pdftex.def Info: assets/pozemok.png  used on input line 11.
+(pdftex.def)             Requested size: 203.25887pt x 96.35974pt.
+<assets/hodiny.png, id=376, 184.18813pt x 148.05313pt>
+File: assets/hodiny.png Graphic file (type png)
+<use assets/hodiny.png>
+Package pdftex.def Info: assets/hodiny.png  used on input line 19.
+(pdftex.def)             Requested size: 184.18765pt x 148.05275pt.
+<assets/osemuholnik.png, id=377, 160.09813pt x 125.46875pt>
+File: assets/osemuholnik.png Graphic file (type png)
+<use assets/osemuholnik.png>
+Package pdftex.def Info: assets/osemuholnik.png  used on input line 28.
+(pdftex.def)             Requested size: 160.09772pt x 125.46843pt.
+[19 <./assets/pozemok.png> <./assets/hodiny.png>]
+Overfull \hbox (20.73062pt too wide) in paragraph at lines 40--41
+[]\OT1/cmr/bx/n/12 Pr^^S^^Pklad 80. \OT1/cmr/m/it/12 V ^^Tstvorcovej sieti so s
+tra-nou ^^Tstvorca dl-hou 1 cm s^^Su zn^^Sazornen^^Se 4 ^^Tstvoruholn^^S^^Pky,
+ []
+
+<assets/lichobezniky.png, id=388, 284.56313pt x 209.78375pt>
+File: assets/lichobezniky.png Graphic file (type png)
+<use assets/lichobezniky.png>
+Package pdftex.def Info: assets/lichobezniky.png  used on input line 43.
+(pdftex.def)             Requested size: 284.56242pt x 209.78322pt.
+<assets/pravouhly.png, id=389, 228.855pt x 143.53625pt>
+File: assets/pravouhly.png Graphic file (type png)
+<use assets/pravouhly.png>
+Package pdftex.def Info: assets/pravouhly.png  used on input line 58.
+(pdftex.def)             Requested size: 228.85443pt x 143.53589pt.
+[20 <./assets/osemuholnik.png> <./assets/lichobezniky.png>]
+<assets/uhol_zadanie.png, id=403, 319.69438pt x 21.07875pt>
+File: assets/uhol_zadanie.png Graphic file (type png)
+<use assets/uhol_zadanie.png>
+Package pdftex.def Info: assets/uhol_zadanie.png  used on input line 64.
+(pdftex.def)             Requested size: 319.69359pt x 21.07867pt.
+<assets/uhol.png, id=404, 190.21063pt x 78.79437pt>
+File: assets/uhol.png Graphic file (type png)
+<use assets/uhol.png>
+Package pdftex.def Info: assets/uhol.png  used on input line 65.
+(pdftex.def)             Requested size: 190.21016pt x 78.79417pt.
+<assets/pieskovisko_zadanie.png, id=405, 313.67188pt x 36.63687pt>
+File: assets/pieskovisko_zadanie.png Graphic file (type png)
+<use assets/pieskovisko_zadanie.png>
+Package pdftex.def Info: assets/pieskovisko_zadanie.png  used on input line 72.
+
+(pdftex.def)             Requested size: 313.6711pt x 36.63676pt.
+<assets/pieskovisko.png, id=406, 129.98563pt x 99.87312pt>
+File: assets/pieskovisko.png Graphic file (type png)
+<use assets/pieskovisko.png>
+Package pdftex.def Info: assets/pieskovisko.png  used on input line 73.
+(pdftex.def)             Requested size: 129.98529pt x 99.87288pt.
+<assets/bludisko_zadanie.png, id=407, 327.2225pt x 51.69313pt>
+File: assets/bludisko_zadanie.png Graphic file (type png)
+<use assets/bludisko_zadanie.png>
+Package pdftex.def Info: assets/bludisko_zadanie.png  used on input line 78.
+(pdftex.def)             Requested size: 327.2217pt x 51.693pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+<assets/bludisko1.png, id=408, 317.68687pt x 126.4725pt>
+File: assets/bludisko1.png Graphic file (type png)
+<use assets/bludisko1.png>
+Package pdftex.def Info: assets/bludisko1.png  used on input line 84.
+(pdftex.def)             Requested size: 317.68608pt x 126.47218pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--90
+
+ []
+
+<assets/bludisko2.png, id=409, 316.18124pt x 125.46875pt>
+File: assets/bludisko2.png Graphic file (type png)
+<use assets/bludisko2.png>
+Package pdftex.def Info: assets/bludisko2.png  used on input line 92.
+(pdftex.def)             Requested size: 316.18047pt x 125.46843pt.
+[21 <./assets/pravouhly.png> <./assets/uhol_zadanie.png> <./assets/uhol.png> <.
+/assets/pieskovisko_zadanie.png> <./assets/pieskovisko.png> <./assets/bludisko_
+zadanie.png> <./assets/bludisko1.png>]
+<assets/osemuholnik2_zadanie.png, id=425, 310.66063pt x 29.10875pt>
+File: assets/osemuholnik2_zadanie.png Graphic file (type png)
+<use assets/osemuholnik2_zadanie.png>
+Package pdftex.def Info: assets/osemuholnik2_zadanie.png  used on input line 98
+.
+(pdftex.def)             Requested size: 310.65987pt x 29.10867pt.
+<assets/osemuholnik2.png, id=426, 111.91812pt x 93.34875pt>
+File: assets/osemuholnik2.png Graphic file (type png)
+<use assets/osemuholnik2.png>
+Package pdftex.def Info: assets/osemuholnik2.png  used on input line 99.
+(pdftex.def)             Requested size: 111.91785pt x 93.34851pt.
+<assets/chata.png, id=427, 322.70563pt x 164.615pt>
+File: assets/chata.png Graphic file (type png)
+<use assets/chata.png>
+Package pdftex.def Info: assets/chata.png  used on input line 106.
+(pdftex.def)             Requested size: 322.70483pt x 164.6146pt.
+<assets/chata1.png, id=428, 313.67188pt x 30.61438pt>
+File: assets/chata1.png Graphic file (type png)
+<use assets/chata1.png>
+Package pdftex.def Info: assets/chata1.png  used on input line 112.
+(pdftex.def)             Requested size: 313.6711pt x 30.61429pt.
+<assets/chata2.png, id=429, 315.1775pt x 21.58063pt>
+File: assets/chata2.png Graphic file (type png)
+<use assets/chata2.png>
+Package pdftex.def Info: assets/chata2.png  used on input line 120.
+(pdftex.def)             Requested size: 315.17673pt x 21.58055pt.
+<assets/dlazba_zadanie.png, id=430, 307.64937pt x 84.81688pt>
+File: assets/dlazba_zadanie.png Graphic file (type png)
+<use assets/dlazba_zadanie.png>
+Package pdftex.def Info: assets/dlazba_zadanie.png  used on input line 128.
+(pdftex.def)             Requested size: 307.6486pt x 84.81665pt.
+<assets/dlazba_moznosti.png, id=431, 315.1775pt x 63.73813pt>
+File: assets/dlazba_moznosti.png Graphic file (type png)
+<use assets/dlazba_moznosti.png>
+Package pdftex.def Info: assets/dlazba_moznosti.png  used on input line 129.
+(pdftex.def)             Requested size: 315.17673pt x 63.73796pt.
+ [22 <./assets/bludisko2.png> <./assets/osemuholnik2_zadanie.png> <./assets/ose
+muholnik2.png> <./assets/chata.png> <./assets/chata1.png> <./assets/chata2.png>
+ <./assets/dlazba_zadanie.png>]
+<assets/kocka_zadanie.png, id=447, 501.875pt x 48.18pt>
+File: assets/kocka_zadanie.png Graphic file (type png)
+<use assets/kocka_zadanie.png>
+Package pdftex.def Info: assets/kocka_zadanie.png  used on input line 136.
+(pdftex.def)             Requested size: 441.01773pt x 42.33969pt.
+<assets/kocka.png, id=448, 164.615pt x 155.58125pt>
+File: assets/kocka.png Graphic file (type png)
+<use assets/kocka.png>
+Package pdftex.def Info: assets/kocka.png  used on input line 137.
+(pdftex.def)             Requested size: 164.6146pt x 155.58086pt.
+<assets/kruhy_zadanie.png, id=449, 313.67188pt x 19.57312pt>
+File: assets/kruhy_zadanie.png Graphic file (type png)
+<use assets/kruhy_zadanie.png>
+Package pdftex.def Info: assets/kruhy_zadanie.png  used on input line 145.
+(pdftex.def)             Requested size: 313.6711pt x 19.57306pt.
+<assets/kruhy.png, id=450, 197.73875pt x 94.85437pt>
+File: assets/kruhy.png Graphic file (type png)
+<use assets/kruhy.png>
+Package pdftex.def Info: assets/kruhy.png  used on input line 146.
+(pdftex.def)             Requested size: 197.73827pt x 94.85413pt.
+<assets/stavby_zadanie.png, id=451, 304.63812pt x 116.435pt>
+File: assets/stavby_zadanie.png Graphic file (type png)
+<use assets/stavby_zadanie.png>
+Package pdftex.def Info: assets/stavby_zadanie.png  used on input line 154.
+(pdftex.def)             Requested size: 304.63736pt x 116.43471pt.
+<assets/stavby_moznosti.png, id=452, 231.86626pt x 69.25874pt>
+File: assets/stavby_moznosti.png Graphic file (type png)
+<use assets/stavby_moznosti.png>
+Package pdftex.def Info: assets/stavby_moznosti.png  used on input line 155.
+(pdftex.def)             Requested size: 231.86568pt x 69.25856pt.
+<assets/strom_zadanie.png, id=453, 304.63812pt x 129.98563pt>
+File: assets/strom_zadanie.png Graphic file (type png)
+<use assets/strom_zadanie.png>
+Package pdftex.def Info: assets/strom_zadanie.png  used on input line 163.
+(pdftex.def)             Requested size: 304.63736pt x 129.98529pt.
+<assets/strom_moznosti.png, id=454, 151.06438pt x 86.3225pt>
+File: assets/strom_moznosti.png Graphic file (type png)
+<use assets/strom_moznosti.png>
+Package pdftex.def Info: assets/strom_moznosti.png  used on input line 164.
+(pdftex.def)             Requested size: 151.064pt x 86.32227pt.
+ [23 <./assets/dlazba_moznosti.png> <./assets/kocka_zadanie.png> <./assets/kock
+a.png> <./assets/kruhy_zadanie.png> <./assets/kruhy.png> <./assets/stavby_zadan
+ie.png> <./assets/stavby_moznosti.png>]
+<assets/skatulky_zadanie.png, id=469, 311.66437pt x 36.63687pt>
+File: assets/skatulky_zadanie.png Graphic file (type png)
+<use assets/skatulky_zadanie.png>
+Package pdftex.def Info: assets/skatulky_zadanie.png  used on input line 172.
+(pdftex.def)             Requested size: 311.6636pt x 36.63676pt.
+<assets/skatulky.png, id=470, 171.64125pt x 84.315pt>
+File: assets/skatulky.png Graphic file (type png)
+<use assets/skatulky.png>
+Package pdftex.def Info: assets/skatulky.png  used on input line 173.
+(pdftex.def)             Requested size: 171.64081pt x 84.31477pt.
+<assets/kontajner_zadanie.png, id=471, 309.155pt x 65.24374pt>
+File: assets/kontajner_zadanie.png Graphic file (type png)
+<use assets/kontajner_zadanie.png>
+Package pdftex.def Info: assets/kontajner_zadanie.png  used on input line 181.
+(pdftex.def)             Requested size: 309.15424pt x 65.24358pt.
+<assets/kontajner_moznosti.png, id=472, 128.48pt x 66.2475pt>
+File: assets/kontajner_moznosti.png Graphic file (type png)
+<use assets/kontajner_moznosti.png>
+Package pdftex.def Info: assets/kontajner_moznosti.png  used on input line 182.
+
+(pdftex.def)             Requested size: 128.47968pt x 66.24733pt.
+<assets/stvorec_zadanie.png, id=473, 314.67563pt x 22.58438pt>
+File: assets/stvorec_zadanie.png Graphic file (type png)
+<use assets/stvorec_zadanie.png>
+Package pdftex.def Info: assets/stvorec_zadanie.png  used on input line 190.
+(pdftex.def)             Requested size: 314.67485pt x 22.5843pt.
+<assets/stvorec.png, id=474, 143.53625pt x 95.35625pt>
+File: assets/stvorec.png Graphic file (type png)
+<use assets/stvorec.png>
+Package pdftex.def Info: assets/stvorec.png  used on input line 191.
+(pdftex.def)             Requested size: 143.53589pt x 95.356pt.
+ [24 <./assets/strom_zadanie.png> <./assets/strom_moznosti.png> <./assets/skatu
+lky_zadanie.png> <./assets/skatulky.png> <./assets/kontajner_zadanie.png> <./as
+sets/kontajner_moznosti.png> <./assets/stvorec_zadanie.png> <./assets/stvorec.p
+ng>]
+<assets/skatulka.png, id=491, 310.66063pt x 21.07875pt>
+File: assets/skatulka.png Graphic file (type png)
+<use assets/skatulka.png>
+Package pdftex.def Info: assets/skatulka.png  used on input line 199.
+(pdftex.def)             Requested size: 310.65987pt x 21.07867pt.
+<assets/sud.png, id=492, 310.15875pt x 29.10875pt>
+File: assets/sud.png Graphic file (type png)
+<use assets/sud.png>
+Package pdftex.def Info: assets/sud.png  used on input line 207.
+(pdftex.def)             Requested size: 310.15799pt x 29.10867pt.
+<assets/dana_zadanie.png, id=493, 313.67188pt x 39.14626pt>
+File: assets/dana_zadanie.png Graphic file (type png)
+<use assets/dana_zadanie.png>
+Package pdftex.def Info: assets/dana_zadanie.png  used on input line 215.
+(pdftex.def)             Requested size: 313.6711pt x 39.14615pt.
+<assets/dana_moznosti.png, id=494, 289.08pt x 179.67125pt>
+File: assets/dana_moznosti.png Graphic file (type png)
+<use assets/dana_moznosti.png>
+Package pdftex.def Info: assets/dana_moznosti.png  used on input line 216.
+(pdftex.def)             Requested size: 289.07928pt x 179.67079pt.
+<assets/psy.png, id=495, 310.66063pt x 29.10875pt>
+File: assets/psy.png Graphic file (type png)
+<use assets/psy.png>
+Package pdftex.def Info: assets/psy.png  used on input line 224.
+(pdftex.def)             Requested size: 310.65987pt x 29.10867pt.
+<assets/psy_moznosti.png, id=496, 139.01938pt x 81.80562pt>
+File: assets/psy_moznosti.png Graphic file (type png)
+<use assets/psy_moznosti.png>
+Package pdftex.def Info: assets/psy_moznosti.png  used on input line 225.
+(pdftex.def)             Requested size: 139.01903pt x 81.8054pt.
+<assets/uhol2_zadanie.png, id=497, 262.48062pt x 12.54688pt>
+File: assets/uhol2_zadanie.png Graphic file (type png)
+<use assets/uhol2_zadanie.png>
+Package pdftex.def Info: assets/uhol2_zadanie.png  used on input line 231.
+(pdftex.def)             Requested size: 262.47998pt x 12.54683pt.
+<assets/uhol2.png, id=498, 211.28937pt x 126.97438pt>
+File: assets/uhol2.png Graphic file (type png)
+<use assets/uhol2.png>
+Package pdftex.def Info: assets/uhol2.png  used on input line 232.
+(pdftex.def)             Requested size: 211.28885pt x 126.97406pt.
+<assets/uhol2_moznosti.png, id=499, 93.85063pt x 86.3225pt>
+File: assets/uhol2_moznosti.png Graphic file (type png)
+<use assets/uhol2_moznosti.png>
+Package pdftex.def Info: assets/uhol2_moznosti.png  used on input line 233.
+(pdftex.def)             Requested size: 93.85039pt x 86.32227pt.
+<assets/pravouhly2_zadanie.png, id=500, 314.67563pt x 21.58063pt>
+File: assets/pravouhly2_zadanie.png Graphic file (type png)
+<use assets/pravouhly2_zadanie.png>
+Package pdftex.def Info: assets/pravouhly2_zadanie.png  used on input line 239.
+
+(pdftex.def)             Requested size: 314.67485pt x 21.58055pt.
+<assets/pravouhly2.png, id=501, 150.5625pt x 116.435pt>
+File: assets/pravouhly2.png Graphic file (type png)
+<use assets/pravouhly2.png>
+Package pdftex.def Info: assets/pravouhly2.png  used on input line 240.
+(pdftex.def)             Requested size: 150.56212pt x 116.43471pt.
+ [25 <./assets/skatulka.png> <./assets/sud.png> <./assets/dana_zadanie.png> <./
+assets/dana_moznosti.png> <./assets/psy.png> <./assets/psy_moznosti.png> <./ass
+ets/uhol2_zadanie.png> <./assets/uhol2.png> <./assets/uhol2_moznosti.png>]
+<assets/siet_zadanie.png, id=521, 232.36812pt x 18.56938pt>
+File: assets/siet_zadanie.png Graphic file (type png)
+<use assets/siet_zadanie.png>
+Package pdftex.def Info: assets/siet_zadanie.png  used on input line 246.
+(pdftex.def)             Requested size: 232.36754pt x 18.56932pt.
+<assets/siet.png, id=522, 131.49126pt x 119.44624pt>
+File: assets/siet.png Graphic file (type png)
+<use assets/siet.png>
+Package pdftex.def Info: assets/siet.png  used on input line 247.
+(pdftex.def)             Requested size: 131.49092pt x 119.44594pt.
+<assets/jonatan_zadanie.png, id=523, 316.68312pt x 173.64874pt>
+File: assets/jonatan_zadanie.png Graphic file (type png)
+<use assets/jonatan_zadanie.png>
+Package pdftex.def Info: assets/jonatan_zadanie.png  used on input line 255.
+(pdftex.def)             Requested size: 316.68234pt x 173.64832pt.
+<assets/jonatan_moznosti.png, id=524, 291.0875pt x 139.01938pt>
+File: assets/jonatan_moznosti.png Graphic file (type png)
+<use assets/jonatan_moznosti.png>
+Package pdftex.def Info: assets/jonatan_moznosti.png  used on input line 256.
+(pdftex.def)             Requested size: 291.08678pt x 139.01903pt.
+<assets/lichobeznik_zadanie.png, id=525, 321.2pt x 20.075pt>
+File: assets/lichobeznik_zadanie.png Graphic file (type png)
+<use assets/lichobeznik_zadanie.png>
+Package pdftex.def Info: assets/lichobeznik_zadanie.png  used on input line 262
+.
+(pdftex.def)             Requested size: 321.19922pt x 20.07494pt.
+<assets/lichobeznik.png, id=526, 137.51375pt x 105.39375pt>
+File: assets/lichobeznik.png Graphic file (type png)
+<use assets/lichobeznik.png>
+Package pdftex.def Info: assets/lichobeznik.png  used on input line 263.
+(pdftex.def)             Requested size: 137.51341pt x 105.39348pt.
+ [26 <./assets/pravouhly2_zadanie.png> <./assets/pravouhly2.png> <./assets/siet
+_zadanie.png> <./assets/siet.png> <./assets/jonatan_zadanie.png> <./assets/jona
+tan_moznosti.png> <./assets/lichobeznik_zadanie.png>]
+<assets/stvorec2.png, id=542, 321.2pt x 21.58063pt>
+File: assets/stvorec2.png Graphic file (type png)
+<use assets/stvorec2.png>
+Package pdftex.def Info: assets/stvorec2.png  used on input line 269.
+(pdftex.def)             Requested size: 321.19922pt x 21.58055pt.
+<assets/trojuholnik_zadanie.png, id=543, 523.9575pt x 31.61812pt>
+File: assets/trojuholnik_zadanie.png Graphic file (type png)
+<use assets/trojuholnik_zadanie.png>
+Package pdftex.def Info: assets/trojuholnik_zadanie.png  used on input line 275
+.
+(pdftex.def)             Requested size: 523.95622pt x 31.61803pt.
+<assets/trojuholnik_rozmery.png, id=544, 221.82875pt x 82.80937pt>
+File: assets/trojuholnik_rozmery.png Graphic file (type png)
+<use assets/trojuholnik_rozmery.png>
+Package pdftex.def Info: assets/trojuholnik_rozmery.png  used on input line 276
+.
+(pdftex.def)             Requested size: 221.82819pt x 82.80916pt.
+<assets/trojuholnik.png, id=545, 263.98625pt x 173.14688pt>
+File: assets/trojuholnik.png Graphic file (type png)
+<use assets/trojuholnik.png>
+Package pdftex.def Info: assets/trojuholnik.png  used on input line 277.
+(pdftex.def)             Requested size: 263.9856pt x 173.14645pt.
+
+Overfull \hbox (82.93849pt too wide) in paragraph at lines 275--278
+ [] 
+ []
+
+<assets/papier_zadanie.png, id=546, 327.2225pt x 168.63pt>
+File: assets/papier_zadanie.png Graphic file (type png)
+<use assets/papier_zadanie.png>
+Package pdftex.def Info: assets/papier_zadanie.png  used on input line 283.
+(pdftex.def)             Requested size: 327.2217pt x 168.62958pt.
+<assets/papier1.png, id=547, 256.45813pt x 14.0525pt>
+File: assets/papier1.png Graphic file (type png)
+<use assets/papier1.png>
+Package pdftex.def Info: assets/papier1.png  used on input line 284.
+(pdftex.def)             Requested size: 256.45749pt x 14.05246pt.
+<assets/byty_zadanie.png, id=548, 321.2pt x 85.82062pt>
+File: assets/byty_zadanie.png Graphic file (type png)
+<use assets/byty_zadanie.png>
+Package pdftex.def Info: assets/byty_zadanie.png  used on input line 289.
+(pdftex.def)             Requested size: 321.19922pt x 85.82039pt.
+
+Underfull \vbox (badness 3343) has occurred while \output is active []
+
+ [27 <./assets/lichobeznik.png> <./assets/stvorec2.png> <./assets/trojuholnik_z
+adanie.png> <./assets/trojuholnik_rozmery.png> <./assets/trojuholnik.png> <./as
+sets/papier_zadanie.png> <./assets/papier1.png>]
+<assets/byty1.png, id=563, 331.2375pt x 35.13126pt>
+File: assets/byty1.png Graphic file (type png)
+<use assets/byty1.png>
+Package pdftex.def Info: assets/byty1.png  used on input line 294.
+(pdftex.def)             Requested size: 331.23668pt x 35.13115pt.
+<assets/byty2.png, id=564, 328.72812pt x 27.60312pt>
+File: assets/byty2.png Graphic file (type png)
+<use assets/byty2.png>
+Package pdftex.def Info: assets/byty2.png  used on input line 300.
+(pdftex.def)             Requested size: 328.72731pt x 27.60304pt.
+<assets/box.png, id=565, 201.75375pt x 113.42375pt>
+File: assets/box.png Graphic file (type png)
+<use assets/box.png>
+Package pdftex.def Info: assets/box.png  used on input line 319.
+(pdftex.def)             Requested size: 201.75325pt x 113.42346pt.
+<assets/doska1.png, id=566, 451.6875pt x 140.525pt>
+File: assets/doska1.png Graphic file (type png)
+<use assets/doska1.png>
+Package pdftex.def Info: assets/doska1.png  used on input line 332.
+(pdftex.def)             Requested size: 451.68639pt x 140.52464pt.
+
+Overfull \hbox (10.66866pt too wide) in paragraph at lines 332--333
+ [] 
+ []
+
+[28 <./assets/byty_zadanie.png> <./assets/byty1.png> <./assets/byty2.png> <./as
+sets/box.png>]
+<assets/doska2.png, id=581, 152.57pt x 134.5025pt>
+File: assets/doska2.png Graphic file (type png)
+<use assets/doska2.png>
+Package pdftex.def Info: assets/doska2.png  used on input line 342.
+(pdftex.def)             Requested size: 152.56963pt x 134.50215pt.
+<assets/telesa.png, id=582, 335.75438pt x 92.345pt>
+File: assets/telesa.png Graphic file (type png)
+<use assets/telesa.png>
+Package pdftex.def Info: assets/telesa.png  used on input line 352.
+(pdftex.def)             Requested size: 335.75356pt x 92.34476pt.
+<assets/telesa_moznosti.png, id=583, 441.65pt x 69.76062pt>
+File: assets/telesa_moznosti.png Graphic file (type png)
+<use assets/telesa_moznosti.png>
+Package pdftex.def Info: assets/telesa_moznosti.png  used on input line 360.
+(pdftex.def)             Requested size: 441.64891pt x 69.76044pt.
+
+Overfull \hbox (0.63118pt too wide) in paragraph at lines 360--361
+ [] 
+ []
+
+<assets/zahon.png, id=584, 521.44812pt x 203.25937pt>
+File: assets/zahon.png Graphic file (type png)
+<use assets/zahon.png>
+Package pdftex.def Info: assets/zahon.png  used on input line 365.
+(pdftex.def)             Requested size: 441.01773pt x 171.90906pt.
+[29 <./assets/doska1.png> <./assets/doska2.png> <./assets/telesa.png> <./assets
+/telesa_moznosti.png>]
+Overfull \hbox (0.33038pt too wide) in paragraph at lines 374--375
+[]\OT1/cmr/bx/n/12 Pr^^S^^Pklad 118. \OT1/cmr/m/it/12 V kto-rej mo^^Tznosti je 
+spr^^Savne uve-den^^Sy ob-jem vrstvy kon^^Sarov vo vyv^^Sy^^Tsenom
+ []
+
+<assets/aquapark_zadanie.png, id=595, 319.69438pt x 90.3375pt>
+File: assets/aquapark_zadanie.png Graphic file (type png)
+<use assets/aquapark_zadanie.png>
+Package pdftex.def Info: assets/aquapark_zadanie.png  used on input line 385.
+(pdftex.def)             Requested size: 319.69359pt x 90.33727pt.
+<assets/aquapark1.png, id=596, 323.70938pt x 20.075pt>
+File: assets/aquapark1.png Graphic file (type png)
+<use assets/aquapark1.png>
+Package pdftex.def Info: assets/aquapark1.png  used on input line 390.
+(pdftex.def)             Requested size: 323.70859pt x 20.07494pt.
+<assets/aquapark2.png, id=597, 319.69438pt x 29.10875pt>
+File: assets/aquapark2.png Graphic file (type png)
+<use assets/aquapark2.png>
+Package pdftex.def Info: assets/aquapark2.png  used on input line 396.
+(pdftex.def)             Requested size: 319.69359pt x 29.10867pt.
+<assets/kocka2_zadanie.png, id=598, 322.20375pt x 31.61812pt>
+File: assets/kocka2_zadanie.png Graphic file (type png)
+<use assets/kocka2_zadanie.png>
+Package pdftex.def Info: assets/kocka2_zadanie.png  used on input line 402.
+(pdftex.def)             Requested size: 322.20296pt x 31.61803pt.
+<assets/kocka2_moznosti.png, id=599, 71.26625pt x 68.255pt>
+File: assets/kocka2_moznosti.png Graphic file (type png)
+<use assets/kocka2_moznosti.png>
+Package pdftex.def Info: assets/kocka2_moznosti.png  used on input line 403.
+(pdftex.def)             Requested size: 71.26605pt x 68.25482pt.
+<assets/kocka2.png, id=600, 105.89563pt x 70.76437pt>
+File: assets/kocka2.png Graphic file (type png)
+<use assets/kocka2.png>
+Package pdftex.def Info: assets/kocka2.png  used on input line 404.
+(pdftex.def)             Requested size: 105.89536pt x 70.76419pt.
+) [30 <./assets/zahon.png> <./assets/aquapark_zadanie.png> <./assets/aquapark1.
+png> <./assets/aquapark2.png> <./assets/kocka2_zadanie.png> <./assets/kocka2_mo
+znosti.png> <./assets/kocka2.png>]
+\openout2 = `pas.aux'.
+
+ (pas.tex
+Kapitola 5.
+<assets/tab2.png, id=621, 284.56313pt x 57.71562pt>
+File: assets/tab2.png Graphic file (type png)
+<use assets/tab2.png>
+Package pdftex.def Info: assets/tab2.png  used on input line 17.
+(pdftex.def)             Requested size: 284.56242pt x 57.71547pt.
+[31
+
+
+
+
+ <./assets/tab2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
+
+ []
+
+[32]
+Overfull \hbox (3.60925pt too wide) in paragraph at lines 86--87
+[]\OT1/cmr/bx/n/12 Pr^^S^^Pklad 136. \OT1/cmr/m/it/12 Zu-zana m^^Sa na svo-jom 
+mo-bil-nom te-lef^^Sone 5 prie^^Tcinkov sr^oznymi hudbn^^Symi
+ []
+
+
+Overfull \hbox (8.5541pt too wide) in paragraph at lines 86--87
+\OT1/cmr/m/it/12 ^^Tst^^Sylmi. V ta-bul[]ke s^^Su uve-den^^Se ich n^^Sazvy a po
+^^Tcty skla-dieb, ktor^^Se ob-sa-huj^^Su. Do-pl-nte ch^^Sybaj^^Suce
+ []
+
+<assets/tab4.png, id=648, 134.5025pt x 81.80562pt>
+File: assets/tab4.png Graphic file (type png)
+<use assets/tab4.png>
+Package pdftex.def Info: assets/tab4.png  used on input line 89.
+(pdftex.def)             Requested size: 134.50215pt x 81.8054pt.
+<assets/jaskyne_graf.png, id=649, 525.965pt x 323.70938pt>
+File: assets/jaskyne_graf.png Graphic file (type png)
+<use assets/jaskyne_graf.png>
+Package pdftex.def Info: assets/jaskyne_graf.png  used on input line 108.
+(pdftex.def)             Requested size: 441.01773pt x 271.43983pt.
+<assets/jaskyne_tab.png, id=650, 512.41437pt x 228.855pt>
+File: assets/jaskyne_tab.png Graphic file (type png)
+<use assets/jaskyne_tab.png>
+Package pdftex.def Info: assets/jaskyne_tab.png  used on input line 109.
+(pdftex.def)             Requested size: 441.01773pt x 196.9686pt.
+[33 <./assets/tab4.png>] [34 <./assets/jaskyne_graf.png> <./assets/jaskyne_tab.
+png>]
+Overfull \hbox (4.7097pt too wide) in paragraph at lines 142--143
+[]\OT1/cmr/bx/n/12 Pr^^S^^Pklad 142. \OT1/cmr/m/it/12 V by-to-vom dome b^^Syva 
+60 rod^^S^^Pn. Kru-hov^^Sy dia-gram zn^^Sazor^^Tnuje per-centu^^Salne
+ []
+
+<assets/auta_graf.png, id=675, 238.39063pt x 141.52875pt>
+File: assets/auta_graf.png Graphic file (type png)
+<use assets/auta_graf.png>
+Package pdftex.def Info: assets/auta_graf.png  used on input line 145.
+(pdftex.def)             Requested size: 238.39003pt x 141.5284pt.
+<assets/tab5.png, id=676, 411.03563pt x 117.94063pt>
+File: assets/tab5.png Graphic file (type png)
+<use assets/tab5.png>
+Package pdftex.def Info: assets/tab5.png  used on input line 150.
+(pdftex.def)             Requested size: 411.03462pt x 117.94032pt.
+<assets/babatka.png, id=677, 414.04688pt x 212.29312pt>
+File: assets/babatka.png Graphic file (type png)
+<use assets/babatka.png>
+Package pdftex.def Info: assets/babatka.png  used on input line 171.
+(pdftex.def)             Requested size: 414.04585pt x 212.2926pt.
+[35 <./assets/auta_graf.png> <./assets/tab5.png>]
+<assets/kocky.png, id=694, 414.04688pt x 181.17688pt>
+File: assets/kocky.png Graphic file (type png)
+<use assets/kocky.png>
+Package pdftex.def Info: assets/kocky.png  used on input line 181.
+(pdftex.def)             Requested size: 414.04585pt x 181.17642pt.
+ [36 <./assets/babatka.png> <./assets/kocky.png>]
+<assets/elektromobily_graf.png, id=710, 439.6425pt x 272.51813pt>
+File: assets/elektromobily_graf.png Graphic file (type png)
+<use assets/elektromobily_graf.png>
+Package pdftex.def Info: assets/elektromobily_graf.png  used on input line 202.
+
+(pdftex.def)             Requested size: 439.64142pt x 272.51746pt.
+<assets/sagan_graf.png, id=711, 404.00937pt x 220.32312pt>
+File: assets/sagan_graf.png Graphic file (type png)
+<use assets/sagan_graf.png>
+Package pdftex.def Info: assets/sagan_graf.png  used on input line 224.
+(pdftex.def)             Requested size: 404.00838pt x 220.32257pt.
+ [37 <./assets/elektromobily_graf.png>]
+<assets/tabula.png, id=726, 173.64874pt x 143.03438pt>
+File: assets/tabula.png Graphic file (type png)
+<use assets/tabula.png>
+Package pdftex.def Info: assets/tabula.png  used on input line 232.
+(pdftex.def)             Requested size: 173.64832pt x 143.03401pt.
+<assets/test_chemia.png, id=727, 424.58624pt x 206.27063pt>
+File: assets/test_chemia.png Graphic file (type png)
+<use assets/test_chemia.png>
+Package pdftex.def Info: assets/test_chemia.png  used on input line 237.
+(pdftex.def)             Requested size: 424.5852pt x 206.27011pt.
+ [38 <./assets/sagan_graf.png> <./assets/tabula.png> <./assets/test_chemia.png>
+]
+<assets/ziaci_zadanie.png, id=737, 423.5825pt x 51.69313pt>
+File: assets/ziaci_zadanie.png Graphic file (type png)
+<use assets/ziaci_zadanie.png>
+Package pdftex.def Info: assets/ziaci_zadanie.png  used on input line 253.
+(pdftex.def)             Requested size: 423.58147pt x 51.693pt.
+<assets/ziaci_graf.png, id=738, 356.83313pt x 65.24374pt>
+File: assets/ziaci_graf.png Graphic file (type png)
+<use assets/ziaci_graf.png>
+Package pdftex.def Info: assets/ziaci_graf.png  used on input line 254.
+(pdftex.def)             Requested size: 356.83224pt x 65.24358pt.
+<assets/stela_zadanie.png, id=739, 415.5525pt x 100.87688pt>
+File: assets/stela_zadanie.png Graphic file (type png)
+<use assets/stela_zadanie.png>
+Package pdftex.def Info: assets/stela_zadanie.png  used on input line 260.
+(pdftex.def)             Requested size: 415.55148pt x 100.87662pt.
+<assets/zoo_graf.png, id=740, 427.5975pt x 282.05376pt>
+File: assets/zoo_graf.png Graphic file (type png)
+<use assets/zoo_graf.png>
+Package pdftex.def Info: assets/zoo_graf.png  used on input line 272.
+(pdftex.def)             Requested size: 427.59645pt x 282.05305pt.
+
+Underfull \vbox (badness 7963) has occurred while \output is active []
+
+ [39 <./assets/ziaci_zadanie.png> <./assets/ziaci_graf.png> <./assets/stela_zad
+anie.png>]
+<assets/tab6.png, id=758, 187.19937pt x 104.39pt>
+File: assets/tab6.png Graphic file (type png)
+<use assets/tab6.png>
+Package pdftex.def Info: assets/tab6.png  used on input line 291.
+(pdftex.def)             Requested size: 187.19891pt x 104.38972pt.
+<assets/hotel_graf.png, id=759, 428.09938pt x 309.155pt>
+File: assets/hotel_graf.png Graphic file (type png)
+<use assets/hotel_graf.png>
+Package pdftex.def Info: assets/hotel_graf.png  used on input line 296.
+(pdftex.def)             Requested size: 428.09833pt x 309.15424pt.
+
+Underfull \vbox (badness 5203) has occurred while \output is active []
+
+ [40 <./assets/zoo_graf.png> <./assets/tab6.png>]
+<assets/hotel_grafy.png, id=770, 402.50375pt x 258.9675pt>
+File: assets/hotel_grafy.png Graphic file (type png)
+<use assets/hotel_grafy.png>
+Package pdftex.def Info: assets/hotel_grafy.png  used on input line 321.
+(pdftex.def)             Requested size: 402.50276pt x 258.96684pt.
+ [41 <./assets/hotel_graf.png>]
+<assets/tab7.png, id=782, 363.3575pt x 75.28125pt>
+File: assets/tab7.png Graphic file (type png)
+<use assets/tab7.png>
+Package pdftex.def Info: assets/tab7.png  used on input line 329.
+(pdftex.def)             Requested size: 363.3566pt x 75.28105pt.
+<assets/kruhovy_diagram_zadanie.png, id=783, 428.09938pt x 38.1425pt>
+File: assets/kruhovy_diagram_zadanie.png Graphic file (type png)
+<use assets/kruhovy_diagram_zadanie.png>
+Package pdftex.def Info: assets/kruhovy_diagram_zadanie.png  used on input line
+ 335.
+(pdftex.def)             Requested size: 428.09833pt x 38.1424pt.
+<assets/kruhovy_diagram.png, id=784, 131.49126pt x 94.85437pt>
+File: assets/kruhovy_diagram.png Graphic file (type png)
+<use assets/kruhovy_diagram.png>
+Package pdftex.def Info: assets/kruhovy_diagram.png  used on input line 336.
+(pdftex.def)             Requested size: 131.49092pt x 94.85413pt.
+<assets/zjazdovky.png, id=785, 413.04312pt x 119.44624pt>
+File: assets/zjazdovky.png Graphic file (type png)
+<use assets/zjazdovky.png>
+Package pdftex.def Info: assets/zjazdovky.png  used on input line 342.
+(pdftex.def)             Requested size: 413.0421pt x 119.44594pt.
+<assets/ziaci_tabulka.png, id=786, 416.05438pt x 81.80562pt>
+File: assets/ziaci_tabulka.png Graphic file (type png)
+<use assets/ziaci_tabulka.png>
+Package pdftex.def Info: assets/ziaci_tabulka.png  used on input line 347.
+(pdftex.def)             Requested size: 416.05336pt x 81.8054pt.
+ [42 <./assets/hotel_grafy.png> <./assets/tab7.png> <./assets/kruhovy_diagram_z
+adanie.png> <./assets/kruhovy_diagram.png> <./assets/zjazdovky.png>]
+<assets/stlpce.png, id=799, 346.79562pt x 187.19937pt>
+File: assets/stlpce.png Graphic file (type png)
+<use assets/stlpce.png>
+Package pdftex.def Info: assets/stlpce.png  used on input line 358.
+(pdftex.def)             Requested size: 346.79477pt x 187.19891pt.
+<assets/tab8.png, id=800, 369.38pt x 66.74937pt>
+File: assets/tab8.png Graphic file (type png)
+<use assets/tab8.png>
+Package pdftex.def Info: assets/tab8.png  used on input line 363.
+(pdftex.def)             Requested size: 369.37909pt x 66.74919pt.
+
+Overfull \hbox (4.5538pt too wide) in paragraph at lines 367--368
+[]\OT1/cmr/bx/n/12 Pr^^S^^Pklad 166. \OT1/cmr/m/it/12 Ktor^^Sy kru-hov^^Sy dia-
+gram spr^^Savne zo-bra-zuje roz-de-le-nie Mi-la-nov^^Sych v^^Sydavkov
+ []
+
+<assets/kruhove_diagramy.png, id=801, 404.00937pt x 245.91875pt>
+File: assets/kruhove_diagramy.png Graphic file (type png)
+<use assets/kruhove_diagramy.png>
+Package pdftex.def Info: assets/kruhove_diagramy.png  used on input line 370.
+(pdftex.def)             Requested size: 404.00838pt x 245.91814pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [43 <./assets/ziaci_tabulka.png> <./assets/stlpce.png> <./assets/tab8.png>]
+Overfull \hbox (6.50978pt too wide) in paragraph at lines 379--380
+[]\OT1/cmr/bx/n/12 Pr^^S^^Pklad 168. \OT1/cmr/m/it/12 Graf zn^^Sazor^^Tnuje roz
+-de-le-nie pol[]nohospod^^Sarskej p^ody s roz-lo-hou 48 hekt^^Sarov,
+ []
+
+<assets/kruhovy_diagram2.png, id=813, 182.18062pt x 129.48375pt>
+File: assets/kruhovy_diagram2.png Graphic file (type png)
+<use assets/kruhovy_diagram2.png>
+Package pdftex.def Info: assets/kruhovy_diagram2.png  used on input line 382.
+(pdftex.def)             Requested size: 182.18016pt x 129.48341pt.
+<assets/tab9.png, id=814, 428.09938pt x 122.4575pt>
+File: assets/tab9.png Graphic file (type png)
+<use assets/tab9.png>
+Package pdftex.def Info: assets/tab9.png  used on input line 387.
+(pdftex.def)             Requested size: 428.09833pt x 122.45718pt.
+
+Overfull \hbox (1.13982pt too wide) in paragraph at lines 395--396
+[]\OT1/cmr/bx/n/12 Pr^^S^^Pklad 170. \OT1/cmr/m/it/12 Graf zn^^Sazor^^Tnuje in-
+form^^Sacie uve-den^^Se v jed-nom z riad-kov z predch^^Sadzaj^^Sucej
+ []
+
+<assets/stlpce2.png, id=815, 279.0425pt x 146.04562pt>
+File: assets/stlpce2.png Graphic file (type png)
+<use assets/stlpce2.png>
+Package pdftex.def Info: assets/stlpce2.png  used on input line 398.
+(pdftex.def)             Requested size: 279.04181pt x 146.04524pt.
+[44 <./assets/kruhove_diagramy.png> <./assets/kruhovy_diagram2.png> <./assets/t
+ab9.png>]) [45 <./assets/stlpce2.png>]
+\openout2 = `vysledky.aux'.
+
+ (vysledky.tex [46
+
+
+
+
+]
+Kapitola 6.
+) [47] (zbierka.aux (aritmetika.aux) (linearne.aux) (umernost.aux)
+(geometria.aux) (pas.aux) (vysledky.aux))
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-08-29>
+ ***********
+Package rerunfilecheck Info: File `zbierka.out' has not changed.
+(rerunfilecheck)             Checksum: 0FE6C559AF7245FFF645764183FE8483;1739.
+ ) 
+Here is how much of TeX's memory you used:
+ 11560 strings out of 475248
+ 193307 string characters out of 5757813
+ 1929785 words of memory out of 5000000
+ 32588 multiletter control sequences out of 15000+600000
+ 564956 words of font info for 58 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,6n,79p,546b,671s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\roman\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1200.pk> <C:\Users\roman\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\tcti1200.pk><C:/Users/roman/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmbx12.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/roman/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/roman/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/roman/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/r
+oman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/
+Users/roman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb><C:/Users/roman/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmti12.pfb>
+Output written on zbierka.pdf (47 pages, 3856182 bytes).
+PDF statistics:
+ 965 PDF objects out of 1000 (max. 8388607)
+ 342 named destinations out of 1000 (max. 500000)
+ 674 words of extra memory for PDF output out of 10000 (max. 10000000)
+
