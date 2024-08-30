@@ -2,5 +2,9 @@
 
 <img src="../loga/educat_zelene.png" width="200">
 
-* [Doučovanie do školy](dds/README.md)
-* [Testovanie 9 a prijímacie skúšky](t9-ps/README.md)
+## Doučovanie do školy
+
+* [Zobrazovanie zlomkov na číselnej osi ](dds/zlomky.py) - program v Pythone
+* [Zaokrúhľovanie desatinných čísel](dds/zaokruhlovanie.py) - program v Pythone
+
+## Príprava na Testovanie 9
