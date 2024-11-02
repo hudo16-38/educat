@@ -8,3 +8,5 @@
 * [Zaokrúhľovanie desatinných čísel](dds/zaokruhlovanie.py) - program v Pythone
 
 ## Príprava na Testovanie 9
+
+*  [Zbierka úloh](t9-ps/zbierka/zbierka.pdf)
