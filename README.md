@@ -5,9 +5,15 @@
   
 Materiály na výučbu v [Educat - vzdelávacie centrum](https://www.educat.sk/)
   
+## Základná škola
 
+### Interaktívne aplikácie v Pythone
 
+* [Prvočíslený rozklad stromovou metódou](./zš/kody/rozklad.py)
 
-* [Materiály pre ZŠ](zš/README.md)
-* [Materiály pre SŠ](sš/README.md)
+### Materiály
+
+* [Zbierka úloh na Testovanie 9](./zš/zbierka/zbierka.pdf)
+
+## Stredná škola
 
