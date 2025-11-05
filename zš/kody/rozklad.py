@@ -5,7 +5,7 @@ WIDTH, HEIGHT = 1000, 800
 
 canvas = tk.Canvas(width=WIDTH, height=HEIGHT, bg="white")
 entry = tk.Entry()
-button = tk.Button(text="Kresli rozklad", command=lambda: kresli_rozklad(n=int(entry.get()), sirka=200, x=WIDTH // 2, y=20))
+button = tk.Button(text="Kresli rozklad", command=lambda: kresli_rozklad(n=int(entry.get()), sirka=300, x=WIDTH // 2, y=20))
 entry.pack()
 button.pack()
 canvas.pack()
@@ -30,11 +30,12 @@ def delitele(n: int) -> list[int]:
 def kresli_rozklad(n: int, sirka: int, x: int, y: int):
     canvas.delete("all")
     s = [(n, sirka, x, y)]
+    r = 12
 
     while s:
         cislo, sirka, x, y = s.pop()
         if je_prvocislo(cislo):
-            canvas.create_oval(x - 10, y - 10, x + 10, y + 10, fill="lightblue")
+            canvas.create_oval(x - r, y - r, x + r, y + r, fill="lightblue")
             canvas.create_text(x, y, text=str(cislo))
         else:
             d = delitele(cislo)
@@ -45,7 +46,7 @@ def kresli_rozklad(n: int, sirka: int, x: int, y: int):
             s.append((n2, sirka/2, x + sirka / 2, y + 40))
             canvas.create_line(x, y, x - sirka / 2, y + 40)
             canvas.create_line(x, y, x + sirka / 2, y + 40)
-            canvas.create_oval(x - 10, y - 10, x + 10, y + 10, fill="lightblue")
+            canvas.create_oval(x - r, y - r, x + r, y + r, fill="white")
             canvas.create_text(x, y, text=str(cislo))
 
 tk.mainloop()

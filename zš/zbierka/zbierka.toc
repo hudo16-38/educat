@@ -1,0 +1,6 @@
+\babel@toc {slovak}{}\relax 
+\contentsline {chapter}{\numberline {1}Teória čísel}{5}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Lineárne rovnice, nerovnice a výrazy}{7}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Kombinatorika}{11}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Pravdepodobnosť a štatistika}{13}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Geometria}{15}{chapter.5}%

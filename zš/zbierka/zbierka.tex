@@ -5,14 +5,16 @@
 \usepackage{graphicx}
 \usepackage[top=2cm, bottom=2cm, left=3cm, right=4cm]{geometry}
 \usepackage{hyperref}
-\usepackage{amsthm}
+\usepackage[most]{tcolorbox}
+\tcbuselibrary{theorems}
 
-\theoremstyle{definition}
-\newtheorem{exmp}{Example}[section]
+\newtcbtheorem[number within=chapter]{example}{Príklad}%
+{colback=yellow!5,colframe=yellow!80!black,fonttitle=\bfseries,title after break=\textbf{(pokračovanie)}}{ex}
+
 
 \title{Zbierka úloh z Testovania 9}
 \date{\today}
-\author{\includegraphics[width=0.2\textwidth]{../loga/EDUCAT_ICON.png} \\ Educat - vzdelávacie centrum, s.r.o. \\ \url{www.educat.sk}}
+\author{\includegraphics[width=0.2\textwidth]{../../loga/EDUCAT_ICON.png} \\ Educat - vzdelávacie centrum, s.r.o. \\ \url{www.educat.sk}}
 
 \begin{document}
 \maketitle
